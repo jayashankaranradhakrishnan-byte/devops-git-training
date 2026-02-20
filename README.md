@@ -1,1 +1,1 @@
-dev repo add v1
+dev repo add v1 and v2 
