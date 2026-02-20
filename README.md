@@ -1,3 +1,1 @@
-DevOps Git Training
-Develop update
-Payment module update
+dev repo add v1
