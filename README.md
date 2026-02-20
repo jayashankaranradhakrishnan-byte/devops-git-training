@@ -1,1 +1,1 @@
-main repo
+DevOps Git Training
