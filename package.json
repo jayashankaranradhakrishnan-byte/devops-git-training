@@ -1,0 +1,23 @@
+{
+  "name": "devops-git-training",
+  "version": "1.0.0",
+  "description": "feature/payment repo payment section",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayashankaranradhakrishnan-byte/devops-git-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jayashankaranradhakrishnan-byte/devops-git-training/issues"
+  },
+  "homepage": "https://github.com/jayashankaranradhakrishnan-byte/devops-git-training#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
